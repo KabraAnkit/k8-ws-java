@@ -1,0 +1,2 @@
+order-service: https://hub.docker.com/repository/docker/ankitkabra/order-service/general
+inventory-service: https://hub.docker.com/repository/docker/ankitkabra/inventory-service/general
